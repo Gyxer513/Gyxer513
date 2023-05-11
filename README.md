@@ -3,7 +3,7 @@
 
  
 # 💫 About Me:
-🔅 I'm web developer from Moscow<br>🔭 Like to work on an interesting projects<br>🌱 I’m currently learning frontend in Yandex Practicum<br>💪 I'm not afraid of difficulties<br>✅ Want to write clean readable code<br><br><br>
+🔅 I'm web developer from Moscow;<br>🔭 Like to work on an interesting projects;<br>🌱 I’m currently learning frontend in Yandex Practicum;<br>💪 I'm not afraid of difficulties;<br>✅ Want to write clean readable code;<br><br><br>
 
 
 # 💻 Tech Stack:
@@ -22,3 +22,6 @@
  
  ![](https://komarev.com/ghpvc/?username=Gyxer513)
 
+### Contact me:
+### 🌐 Telegram: [@Gyxer](https://t.me/Gyxer);
+### 📧 Email: fpanchuk@yandex.ru;
