@@ -11,7 +11,7 @@
 - 🌍 Software Architect & Full-Stack Developer from **Moscow**
 - 🏥 Focused on **MedTech & Healthcare** — automating medical business processes
 - 🏗️ From requirements to production: architecture → development → CI/CD → monitoring
-- 🤖 Advocate of **AI-assisted development** (Claude Code)
+- 🤖 Advocate of **AI-assisted development**
 - 📚 Certified **Software Architect** & **Middle Frontend** — Yandex Practicum
 - 🧹 Striving to write **clean, maintainable, scalable** code
 
