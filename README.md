@@ -1,8 +1,5 @@
 <h1 align="center">Hi there, I'm Filipp 👋</h1>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Gyxer513&color=blue&style=flat-square" alt="profile views" />
-</p>
 
 ---
 
